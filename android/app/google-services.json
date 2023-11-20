@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453864105790",
+    "project_id": "rehber-1f6f5",
+    "storage_bucket": "rehber-1f6f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453864105790:android:a1166ace0e613d360e6e6f",
+        "android_client_info": {
+          "package_name": "com.example.kisiler_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn5zg72DB8WvwS2nooZxDezdIgBuiDBrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
